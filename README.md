@@ -41,7 +41,9 @@ AWS Glue was employed to create a data pipeline for ETL (Extract, Transform, Loa
 Data cleaning involved removing null values and resolving formatting issues using AWS DataBrew.
 
 ### 8. Data Structuring
-The data was restructured by department and monthly trends to fit the analytical questions posed at the beginning of the project.
+The data was restructured by the department and monthly trends to fit the analytical questions posed at the beginning of the project.
+![DataBrew Data Preparation](DataStructuring.png)
+
 
 ### 9. Data Pipeline Implementation
 AWS Glue Jobs were set up to ensure the correct transformation and loading of data into the designated S3 buckets.
