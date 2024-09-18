@@ -34,6 +34,7 @@ The cleaned data was ingested into the S3 Raw bucket for storage and further pro
 
 ### 6. Data Pipeline Design
 AWS Glue was employed to create a data pipeline for ETL (Extract, Transform, Load) processes, ensuring the data flows efficiently to the desired destinations.
+![DataBrew Data Preparation](datapipeline.png)
 
 ### 7. Data Cleaning
 Data cleaning involved removing null values and resolving formatting issues using AWS DataBrew.
