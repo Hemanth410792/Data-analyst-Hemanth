@@ -48,6 +48,8 @@ The data was restructured by the department and monthly trends to fit the analyt
 ### 9. Data Pipeline Implementation
 AWS Glue Jobs were set up to ensure the correct transformation and loading of data into the designated S3 buckets.
 
+DataPipelineImplementation1.png
+
 ### 10. Data Analysis
 AWS Athena was utilized for SQL queries to analyze the data. For example, the following query was executed to retrieve relevant information:
 
