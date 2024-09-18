@@ -64,7 +64,7 @@ The comparison of inquiry volumes between 2023 and 2024 was visualized to analyz
 
 ### 12.Data Publishing
 An AWS EC2 instance was deployed to publish the analysis results, enabling remote access for stakeholders.
-![DataBrew Data Preparation](DataPublishing.png)
+![DataBrew Data Preparation](DataPublishing.jpg)
 
 
 ## Part 2: Data Protection, Governance, and Monitoring
