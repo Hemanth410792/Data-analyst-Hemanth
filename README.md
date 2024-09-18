@@ -26,7 +26,9 @@ AWS S3 was used for data storage with three distinct buckets:
 
 ### 4. Data Preparation
 AWS DataBrew was used to clean and transform the data, applying standardization and filtering irrelevant data points.
-datapreparation.png
+
+![DataBrew Data Preparation](datapreparation.png)
+
 
 ### 5. Data Injection
 The cleaned data was ingested into the S3 Raw bucket for storage and further processing.
