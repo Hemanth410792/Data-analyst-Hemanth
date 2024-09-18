@@ -56,6 +56,8 @@ AWS Athena was utilized for SQL queries to analyze the data. For example, the fo
 ```sql
 SELECT FROM "group2_part1_govfinance_3_1_1_inquiry_volume_database_hemanth"."group2_part1_govfinance_3_1_1_inquiry_volume_table_hemanth";
 ```
+![DataBrew Data Preparation](Dataanalysis.png)
+
 
 ## Part 2: Data Protection, Governance, and Monitoring
 
