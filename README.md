@@ -53,6 +53,9 @@ AWS Glue Jobs were set up to ensure the correct transformation and loading of da
 
 ### 10. Data Analysis
 AWS Athena was utilized for SQL queries to analyze the data. For example, the following query was executed to retrieve relevant information:
+```sql
+SELECT FROM "group2_part1_govfinance_3_1_1_inquiry_volume_database_hemanth"."group2_part1_govfinance_3_1_1_inquiry_volume_table_hemanth";
+```
 
 ## Part 2: Data Protection, Governance, and Monitoring
 
@@ -87,8 +90,7 @@ The governance and monitoring components of this project provided several key in
 The governance, protection, and monitoring setup for the AWS Data Analytic Platform ensured that the City of Vancouver could safely and securely manage its 3-1-1 inquiry data while maintaining compliance with all necessary security and governance standards. The proactive monitoring using CloudWatch and the comprehensive logging through CloudTrail allowed stakeholders to maintain control over both the security and performance of the system, ensuring sustainable and efficient data processing for future use.
 
 
-```sql
-SELECT * FROM "group2_part1_govfinance_3_1_1_inquiry_volume_database_hemanth"."group2_part1_govfinance_3_1_1_inquiry_volume_table_hemanth";
+
 
 
 
