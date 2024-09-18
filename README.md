@@ -58,6 +58,14 @@ SELECT FROM "group2_part1_govfinance_3_1_1_inquiry_volume_database_hemanth"."gro
 ```
 ![DataBrew Data Preparation](Dataanalysis.png)
 
+### 11.Data Visualization
+The comparison of inquiry volumes between 2023 and 2024 was visualized to analyze departmental resource allocation and performance. This was critical for stakeholders to monitor and report on department performance.
+![DataBrew Data Preparation](DataVisualization.png)
+
+### 12.Data Publishing
+An AWS EC2 instance was deployed to publish the analysis results, enabling remote access for stakeholders.
+![DataBrew Data Preparation](DataPublishing.png)
+
 
 ## Part 2: Data Protection, Governance, and Monitoring
 
