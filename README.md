@@ -9,12 +9,6 @@ Instructor: Prof. Mahmood Mortazavi Dehkordi, <br>
 Due Date: 18th September 2024 <br>
 </p>
 
-
-
-
-
-
-
 ---
 # AWS Data Analytic Platform for The City of Vancouver
 
