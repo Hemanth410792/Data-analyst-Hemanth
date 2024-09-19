@@ -1,3 +1,14 @@
+# Data-Analyst-Hemanthkumar-Vijayakumar
+## AWS Portfolio Assignment
+
+**Hemanthkumar Vijayakumar [2228226]**  
+University Canada West  
+BUSI 653,  
+Section 05,  
+Instructor: Prof. Mahmood Mortazavi Dehkordi  
+Due Date: 18th September 2024
+
+---
 # AWS Data Analytic Platform for The City of Vancouver
 
 ## Implementation and Analysis of 3-1-1 Inquiry Volumes Using AWS
@@ -46,8 +57,7 @@ The design and implementation process includes the following steps:
 12. **Data Publishing:** Publish the analysis reports and visualizations to internal stakeholders to inform decision-making processes.
 
 
-
-
+---
 # [AWS-2 Project 2](https://hemanth410792.github.io/Projectpart-2/) 
 
 # Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
@@ -70,19 +80,21 @@ The process of implementing Data Protection, Governance, and Monitoring for the 
 3. **Data Monitoring:**  
    Set up real-time monitoring for the DAP using AWS CloudWatch to track system performance and AWS GuardDuty for monitoring potential security threats. Implement audit trails with AWS CloudTrail to maintain logs of all platform activities.
 
-  
+---  
 ### Screenshots and Visuals
 Several screenshots were captured to visualize key configurations:
 - **S3 Bucket Management and Replication Rules**: Demonstrates the lifecycle management and replication configurations used for redundancy and disaster recovery.
 - **CloudTrail Logging and Governance**: Shows how CloudTrail was configured to log API requests and track changes across all AWS services involved in the project.
 - **CloudWatch Dashboard**: Highlights critical metrics, including estimated charges and bucket size, for real-time system monitoring and cost management.
 
+---
 ### Summary of Insights
 The governance and monitoring components of this project provided several key insights:
 - **Security and Data Integrity**: Data security was maintained using AWS's advanced security features, ensuring the integrity and confidentiality of the data.
 - **Proactive Monitoring**: Real-time insights into system performance and costs enabled proactive management of resources, reducing the risk of unexpected cost overruns or system failures.
 - **Data Governance Compliance**: Comprehensive tracking of all activities and changes in the system ensured that governance and compliance requirements were met without compromising operational efficiency.
 
+---
 ### Conclusion
 The governance, protection, and monitoring setup for the AWS Data Analytic Platform ensured that the City of Vancouver could safely and securely manage its 3-1-1 inquiry data while maintaining compliance with all necessary security and governance standards. The proactive monitoring using CloudWatch and the comprehensive logging through CloudTrail allowed stakeholders to maintain control over both the security and performance of the system, ensuring sustainable and efficient data processing for future use.
 
