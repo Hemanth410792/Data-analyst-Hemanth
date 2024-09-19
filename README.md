@@ -1,12 +1,13 @@
-# Data-Analyst-Hemanthkumar-Vijayakumar
-## AWS Portfolio Assignment
+<h1 style="text-align: center;">Data-Analyst-Hemanthkumar-Vijayakumar</h1>
+<h2 style="text-align: center;">AWS Portfolio Assignment</h2>
 
-**Hemanthkumar Vijayakumar [2228226]**  
-University Canada West  
-BUSI 653,  
-Section 05,  
-Instructor: Prof. Mahmood Mortazavi Dehkordi  
-Due Date: 18th September 2024
+<p style="text-align: center;"><strong>Hemanthkumar Vijayakumar [2228226]</strong><br>
+University Canada West<br>
+BUSI 653,<br>
+Section 05,<br>
+Instructor: Prof. Mahmood Mortazavi Dehkordi<br>
+Due Date: 18th September 2024</p>
+
 
 ---
 # AWS Data Analytic Platform for The City of Vancouver
