@@ -48,7 +48,28 @@ The design and implementation process includes the following steps:
 
 
 
-# [AWS-1 Project 1](https://hemanth410792.github.io/Projectpart-2/) 
+# [AWS-2 Project 2](https://hemanth410792.github.io/Projectpart-2/) 
+
+# Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
+
+## Project Description:
+The City of Vancouver requires a robust and secure data platform to manage and monitor data associated with 3-1-1 inquiries and safety-issued operating permits for public systems, such as cooling towers and water features. This project focuses on ensuring data protection, governance, and monitoring within the Data Analytics Platform (DAP) designed and implemented using Amazon Web Services (AWS). The goal is to ensure compliance with public health standards and provide a secure, transparent framework for analyzing data related to water system permits.
+
+## Project Objective:
+Design and implement data protection, governance, and monitoring measures within the AWS-based Data Analytics Platform (DAP).
+
+## Methodology:
+The process of implementing Data Protection, Governance, and Monitoring for the DAP involves the following steps:
+
+1. **Data Protection:**  
+   Implement security protocols to safeguard sensitive data, including encryption of data at rest and in transit, access control using AWS IAM roles, and setting up AWS KMS for key management.
+
+2. **Data Governance:**  
+   Establish a data governance framework to ensure compliance with regulations and policies, define roles for data ownership, and maintain data quality through AWS services like AWS Glue Data Catalog and AWS Lake Formation.
+
+3. **Data Monitoring:**  
+   Set up real-time monitoring for the DAP using AWS CloudWatch to track system performance and AWS GuardDuty for monitoring potential security threats. Implement audit trails with AWS CloudTrail to maintain logs of all platform activities.
+
   
 ### Screenshots and Visuals
 Several screenshots were captured to visualize key configurations:
